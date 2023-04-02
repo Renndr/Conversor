@@ -1,18 +1,28 @@
-## Getting Started
+# Alura Challenge "Conversor de monedas"
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Conversor de monedas, temperatura y medidas en general.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+Aplicacion hecha en java Swing capaz de convertir divisas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+#### Divisas disponibles actualmente:
+Peso Dominicano (DOP), Peso Mexicano (MXN), Dolar Estadounidense (USD), Euro (EUR), Libra Esterlina (GBP), Yen (JPY)","Won Coreano (KRW).
+No se utiliza API para convertir las divisas por lo cual, durante el tiempo si no recibe mas actualizaciones quedaria opsoleto ese panel.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+La aplicacion tambien es capaz de convertir a las temperaturas mas utilizadas.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+#### Temperaturas disponibles actualmente:
+Kelvin, Fahrenheit, Celsius, Rankine.
 
-## Dependency Management
+#### Conversor de medidas añadido, el cual contiene:
+-Volumen.  
+-Area.  
+-Longitud.  
+-Masa.  
+-Velocidad.  
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Interfaz de la aplicacion Flatlaf look and feel.
+
+### Proyecto creado por Manuel Bernabel (Ren) para el Alura Challenge "Conversor de monedas".
+
+

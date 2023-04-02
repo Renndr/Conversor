@@ -15,11 +15,11 @@ La aplicacion tambien es capaz de convertir a las temperaturas mas utilizadas.
 Kelvin, Fahrenheit, Celsius, Rankine.
 
 #### Conversor de medidas añadido, el cual contiene:
--Volumen.
--Area.
--Longitud.
--Masa.
--Velocidad.
+-Volumen.  
+-Area.  
+-Longitud.  
+-Masa.  
+-Velocidad.  
 
 Interfaz de la aplicacion Flatlaf look and feel.
 

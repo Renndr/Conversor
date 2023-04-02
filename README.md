@@ -6,7 +6,7 @@
 Aplicacion hecha en java Swing capaz de convertir divisas.
 
 #### Divisas disponibles actualmente:
-Peso Dominicano (DOP) ,Peso Mexicano (MXN) ,Dolar Estadounidense (USD) ,Euro (EUR) ,Libra Esterlina (GBP), Yen (JPY)","Won Coreano (KRW).
+Peso Dominicano (DOP), Peso Mexicano (MXN), Dolar Estadounidense (USD), Euro (EUR), Libra Esterlina (GBP), Yen (JPY)","Won Coreano (KRW).
 No se utiliza API para convertir las divisas por lo cual, durante el tiempo si no recibe mas actualizaciones quedaria opsoleto ese panel.
 
 La aplicacion tambien es capaz de convertir a las temperaturas mas utilizadas.
